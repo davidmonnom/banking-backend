@@ -1,0 +1,13 @@
+# VSC workspace files
+.vscode/
+
+# Environment file
+.venv/
+venv/
+
+# Python client cache
+__pycache__/
+.pytest_cache/
+
+# Alembic
+alembic.ini

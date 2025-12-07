@@ -1,0 +1,9 @@
+fastapi==0.109.2
+fastapi_sso==0.12.1
+python-jose==3.3.0
+pydantic==2.6.1
+pytest==8.0.1
+python-dotenv==1.0.1
+SQLAlchemy==2.0.27
+uvicorn==0.27.1
+plaid-python==23.0.0
